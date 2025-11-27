@@ -1,4 +1,4 @@
-***Simulación de AFND y Conversión a AFD mediante Construcción de Subconjuntos***  
+### Simulación de AFND y Conversión a AFD mediante Construcción de Subconjuntos
 
 ### Autores: 
 ###        *Córdova García Leonardo Kepler*
