@@ -1,11 +1,11 @@
-### Simulación de AFND y Conversión a AFD mediante Construcción de Subconjuntos
+# Simulación de AFND y Conversión a AFD mediante Construcción de Subconjuntos
 
-### Autores: 
-###        *Córdova García Leonardo Kepler*
-###        *Blas Sanca Hebert Gianmarco*    
-###        *Guevara Capulian Julio Ricardo*     
-###        *Rodriguez Claeyssen Isaac Aaron*      
-###        *Rojas Nazario Nathan Ray*
+## Autores: 
+###        - *Córdova García Leonardo Kepler*
+###        - *Blas Sanca Hebert Gianmarco*    
+###        - *Guevara Capulian Julio Ricardo*     
+###        - *Rodriguez Claeyssen Isaac Aaron*      
+###        - *Rojas Nazario Nathan Ray*
 ### Curso: *Teoria de la computación*  
 ### Profesor: *Victor Hugo Bustamante*
 
