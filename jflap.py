@@ -144,6 +144,7 @@ def analizar_recorrido(afnd: AFND, cadena: str):
 
     if aceptados:
         print("--> cadena aceptada")
+        print("Estados aceptadores: ", aceptados)
     else:
         print("--> cadena no aceptada")
 
