@@ -500,6 +500,7 @@ a,b
 </structure>
 
 ```
+<img width="772" height="456" alt="image" src="https://github.com/user-attachments/assets/1cc4e272-74f6-4fc1-b5b1-dd9b58922d89" />
 
 
 
@@ -541,4 +542,6 @@ Archivo XML compatible con JFLAP que representa el autómata convertido.
 </structure>
 
 ```
+<img width="663" height="418" alt="image" src="https://github.com/user-attachments/assets/ea7baa60-a924-4153-8c19-96126c5a55aa" />
+
 
