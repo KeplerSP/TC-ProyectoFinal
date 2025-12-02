@@ -79,8 +79,8 @@ El proceso:
 ### 3.1 Librerías Principales
 ```js
 
-import xml.etree.ElementTree as ET
-from xml.dom import minidom
+import xml.etree.ElementTree as ET     # Permite crear y estructurar los elementos del archivo XML (.jff)
+from xml.dom import minidom            # Se usa para dar formato (indentación) al XML y hacerlo legible
 ```
 ### 3.2 Representación del AFND y AFD
 
